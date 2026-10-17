@@ -8,6 +8,7 @@ My background in manufacturing and quality control helps me understand real oper
 ## 🚀 Projects
 
 ### WIP Management & Production Control System
+
 A manufacturing application for tracking production progress, work-in-progress balances, processing quantities, scrap, and finished goods movement.
 
 **Technologies:** Appsmith, Supabase, PostgreSQL, REST APIs, JavaScript
@@ -15,6 +16,7 @@ A manufacturing application for tracking production progress, work-in-progress b
 [View Project on GitHub](https://github.com/junetindi/wip-management-production-control)
 
 ### Finished Goods Stock Management System
+
 A database-driven inventory application for tracking finished goods, stock receipts, issues, and inventory balances.
 
 **Technologies:** Appsmith, Supabase, PostgreSQL, REST APIs
@@ -23,11 +25,18 @@ A database-driven inventory application for tracking finished goods, stock recei
 
 ## 🛠️ Technologies & Learning
 
-- **Databases:** PostgreSQL, learning MariaDB
+- **Databases:** PostgreSQL; currently learning MariaDB
 - **APIs:** REST APIs
 - **Application Development:** Appsmith, JavaScript
-- **Currently Learning:** Python, Frappe Framework, ERPNext
-- **Next Project:** Procurement and Material Issuance Tracker
+- **Currently Learning:** Python, Frappe Framework, and ERPNext
+- **Next Project:** Procurement and Material Issuance Tracker using ERPNext
+
+## 🔭 Currently Learning & Building
+
+- 🌱 Deepening my skills in **Python, Frappe Development, and ERPNext customization**.
+- 🏭 Applying my manufacturing experience to **ERP, procurement, inventory, and production systems**.
+- 👯 Open to collaborating on practical **ERP and business application projects**.
+- 💬 Interested in discussing **manufacturing workflows, inventory systems, REST APIs, and business applications**.
 
 ## 🎯 Career Goals
 
